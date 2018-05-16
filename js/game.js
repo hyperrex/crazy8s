@@ -1,3 +1,5 @@
+// const deal = require('deal.js');
+
 /************************/
 /*   declare variable   */
 /************************/
@@ -16,7 +18,10 @@ const deck = new Deck();
 // Mount deck
 deck.mount($container);
 deck.shuffle();
-deck.flip();
+deck.fan();
+deck.sort();
+
+// deal();
 /************************/
 /*   create functions   */
 /************************/
