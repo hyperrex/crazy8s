@@ -1,0 +1,22 @@
+{
+  "name": "crazy8s",
+  "version": "1.0.0",
+  "description": "Crazy 8's game written in JavaScript and CSS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyperrex/crazy8s.git"
+  },
+  "author": "Wendell Yamada",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyperrex/crazy8s/issues"
+  },
+  "homepage": "https://github.com/hyperrex/crazy8s#readme",
+  "dependencies": {
+    "deck-of-cards": "^0.1.8"
+  }
+}
